@@ -1,0 +1,162 @@
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Reading layer `AOI_Iceland' from data source 
+  `/projappl/project_2007415/repos/Iceland_SCD/data/AOI_Iceland.gpkg' 
+  using driver `GPKG'
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Simple feature collection with 1 feature and 0 fields
+Geometry type: POLYGON
+Dimension:     XY
+Bounding box:  xmin: -15.79739 ymin: 66.10549 xmax: -15.43599 ymax: 66.23482
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+[[1]]
+class       : SpatRaster 

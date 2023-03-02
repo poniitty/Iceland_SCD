@@ -1,0 +1,1407 @@
+------------------------------
+r-env 4.2.1
+https://docs.csc.fi/apps/r-env
+------------------------------
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+✔ ggplot2 3.3.6     ✔ purrr   0.3.4
+✔ tibble  3.1.8     ✔ dplyr   1.0.9
+✔ tidyr   1.2.0     ✔ stringr 1.4.0
+✔ readr   2.1.2     ✔ forcats 0.5.1
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+terra 1.6.47
+terra 1.6.47
+terra 1.6.47
+terra 1.6.47
+terra 1.6.47
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+terra 1.6.47
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+terra 1.6.47
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘lubridate’
+
+
+Attaching package: ‘terra’
+
+terra 1.6.47
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘lubridate’
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+
+Attaching package: ‘lubridate’
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘scales’
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘foreach’
+
+
+Attaching package: ‘foreach’
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+terra 1.6.47
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘terra’
+
+The following object is masked from ‘package:tidyr’:
+
+    extract
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:terra’:
+
+    intersect, union
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:terra’:
+
+    rescale
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+The following object is masked from ‘package:readr’:
+
+    col_factor
+
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+Linking to GEOS 3.11.0, GDAL 3.5.1, PROJ 9.0.1; sf_use_s2() is TRUE
+
+Attaching package: ‘fasterize’
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+
+Attaching package: ‘fasterize’
+
+The following object is masked from ‘package:graphics’:
+
+    plot
+
+The following object is masked from ‘package:base’:
+
+    plot
+
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+Rows: 80 Columns: 6
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 80 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): f, utc_time, sat_id
+dbl  (2): year, month
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 15611270.0 ON r02c23 CANCELLED AT 2023-03-01T22:20:41 ***
+slurmstepd: error: *** JOB 15611270 ON r02c23 CANCELLED AT 2023-03-01T22:20:42 ***
